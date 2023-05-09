@@ -3,6 +3,6 @@
 ## Attitude Dynamics and Control of a Nano-Satellite Orbiting Mars.
 
 ### Contents:
-##### 1) Mission Brief and Tasks.
+##### 1) Mission_Brief_and_Tasks.pdf
 ##### 2) Main Code.
 
